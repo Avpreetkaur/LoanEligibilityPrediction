@@ -4,3 +4,8 @@ Loan Status Prediction is a critical task in the banking and finance sector. Acc
 Python 
 # Dataset 
 Download the dataset from [Kaggle](https://www.kaggle.com/) 
+# Algorithms Used
+- Decision Tree: A tree-based algorithm that splits the data into subsets based on the most significant attribute at each step, creating a model that predicts the target variable.
+
+- Naive Bayes: A probabilistic algorithm based on Bayes' theorem, which assumes independence between predictors. It is particularly effective for classification tasks involving categorical data.
+
